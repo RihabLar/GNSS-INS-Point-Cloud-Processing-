@@ -3,6 +3,8 @@
 This directory contains an implementation for processing multi-modal sensor data from an autonomous vehicle. The project focuses on aggregating LiDAR scans, filtering dynamic objects, and colorizing point clouds using camera fusion.
 
 ## 📌 Project Overview
+![GNSS Recording Visualization](GNSS_visualization.gif)
+
 The core of this work is contained in `assignment.ipynb`, which leverages the **NuScenes (v1.0-mini)** dataset. The vehicle is equipped with:
 - **Top LiDAR**: High-resolution 3D point cloud data.
 - **GNSS-INS System**: Provides precise ego-motion and spatial orientation (RTK corrected).
