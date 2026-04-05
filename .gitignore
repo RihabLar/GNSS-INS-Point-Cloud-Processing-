@@ -1,0 +1,16 @@
+# Large Datasets
+v1.0-mini/
+samples/
+maps/
+
+# Large Files (>100MB)
+GNSS_recording.mp4
+
+# Processing Outputs
+scene-*_outputs/
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
